@@ -2,4 +2,5 @@
 
 A simple resume template structure
 
-![image](https://github.com/PatrickNthiwa/resume-template/assets/102645955/d7d7f498-1aba-4c8c-940d-fb58f6f98b4f)
+![image](https://github.com/PatrickNthiwa/resume-template/assets/102645955/7882efe2-ba9e-4858-aa66-ee34a463c088)
+
